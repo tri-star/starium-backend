@@ -1,0 +1,13 @@
+{
+  "name": "resources",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@types/node": "^13.13.4",
+    "aws-sdk": "^2.668.0",
+    "axios": "^0.19.2",
+    "dayjs": "^1.8.26"
+  }
+}
